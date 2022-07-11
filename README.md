@@ -1,54 +1,101 @@
 <h1 align="center">Hi 👋, I'm Ihuoma Anosike</h1>
-<h3 align="center">Front-End Developer, content manager & Technical Writer.</h3>
-<h3 align="center">🎙Podcast Host: <a href="https://open.spotify.com/show/0Wz7bQb8d11SgILf6js4e6">WEB3 CHILLOUT ZONE</a>🎧</h3>
+<h3 align="center">Front-End Developer, Content Manager & Technical Writer</h3>
+<h4 align="center">🎙Podcast Host: <a href="https://open.spotify.com/show/0Wz7bQb8d11SgILf6js4e6">WEB3 CHILLOUT ZONE</a>🎧</h4>
+<p align="center"> <a href="https://twitter.com/ihuomaanosike" target="blank"><img src="https://img.shields.io/twitter/follow/ihuomaanosike?logo=twitter&style=for-the-badge" alt="ihuomaanosike" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ihuomaanosike" target="blank"><img src="https://img.shields.io/twitter/follow/ihuomaanosike?logo=twitter&style=for-the-badge" alt="ihuomaanosike" /></a> </p>
+
+<!-- INTRODUCTION:START -->
+## Get To Know Me ☺ !
 
 - 🌱 I’m currently learning **Solidity, Next.js, Blockchain Development and Web3**
-
-- 👯 I’m looking to collaborate on **Opensource projects**
-
+- 👯 Open to questions and Collaborations on **Opensource and Web3 Projects** 💬
 - 📝 I regularly write articles on [Hashnode](https://ihuomablog.hashnode.dev/)
-
-- 💬 Ask me about **Opensource and Web3**
-
-- 📫 How to reach me **anosikeihuoma21@gmail.com**
-
 - 📄 Know about my experiences [https://resume.showwcase.com/oma131.pdf](https://resume.showwcase.com/oma131.pdf)
+- 📫 You can reach me via gmail **anosikeihuoma21@gmail.com** 
+- 🍕**I love Pizza and Corn**
+<!-- INTRODUCTION:END -->
 
-- 🍕**I love Pizza and Corn**🌽
+<!-- CONTACT-INFORMATION:START -->
+## Connect with me
+<table align="left">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://twitter.com/ihuomaanosike" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihuomaanosike" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://linkedin.com/in/ihuoma-anosike" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihuoma-anosike" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://fb.com/ihuoma.anosike.9" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihuoma.anosike.9" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://instagram.com/_____o_m_a" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____o_m_a" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://discord.gg/O.M.A#4916" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="O.M.A#4916" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br/></br>
+<!-- CONTACT-INFORMATION:END -->
 
 ## Latest Blog Articles 📝
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Create an NFT Gallery using Alchemy API](https://ihuomablog.hashnode.dev/how-to-create-an-nft-gallery)
-- [Struct, Mapping, and Arrays in Solidity](https://ihuomablog.hashnode.dev/struct-mappings-and-array-in-solidity)
-- [A Gentle Introduction To Web3.0](https://ihuomablog.hashnode.dev/a-gentle-introduction-to-web-30)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- CONTACT-INFORMATION:START -->
-<h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/ihuomaanosike" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihuomaanosike" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/ihuoma-anosike" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihuoma-anosike" height="30" width="40" />
-</a>
-<a href="https://fb.com/ihuoma.anosike.9" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihuoma.anosike.9" height="30" width="40" />
-</a>
-<a href="https://instagram.com/_____o_m_a" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____o_m_a" height="30" width="40" />
-</a>
-<a href="https://hashnode.com/@ihuoma" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ihuoma" height="30" width="40" />
-</a>
-<a href="https://discord.gg/O.M.A#4916" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="O.M.A#4916" height="30" width="40" />
-</a>
-</p>
-<!-- CONTACT-INFORMATION:END -->
+  <a href="https://ihuomablog.hashnode.dev/how-to-create-an-nft-gallery" title="How To Create An NFT Gallery">
+    <img src="https://ihuomablog.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1656626541760%2FyzINEq9KH.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Nft Gallery" width="250px" align="left" />
+  </a>
+  <a href="https://ihuomablog.hashnode.dev/how-to-create-an-nft-gallery" title="JavaScript Functions">
+    <strong>How To Create An NFT Gallery Using Alchemy NFT API</strong>
+  </a>
+  <br/> 
+  As blockchain technology evolves more data is stored on the blockchain, and querying the blockchain becomes more important.When building some decentralized applications on the blo... 
+</p> 
+
+<br/> <br/>
+	
+<p align="left">
+  <a href="https://ihuomablog.hashnode.dev/struct-mappings-and-array-in-solidity" title="Struct Mappings and Arrays in Solidity">
+    <img src="https://ihuomablog.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1654481893122%2FSE3WZEfwY.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Struct Mappings and Arrays in Solidity" width="250px" align="left" />
+  </a>
+  <a href="https://ihuomablog.hashnode.dev/struct-mappings-and-array-in-solidity" title="Struct Mappings and Arrays in Solidity">
+    <strong>Struct Mappings and Arrays in Solidity</strong>
+  </a>
+  <br/> 
+  In solidity, structs enable you to create complex data types with multiple variables. You can create new custom-defined types and group several variables in Solidity using structs. Let's do a little exe... 
+</p> 
+
+<br/> <br/>
+
+<p align="left">
+  <a href="https://ihuomablog.hashnode.dev/a-gentle-introduction-to-web-30" title="A Gentle Introduction To Web3">
+    <img src="https://ihuomablog.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1654482395249%2FN-fIEVIya.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="A Gentle Introduction To Web3" width="250px" align="left" />
+  </a>
+  <a href="https://ihuomablog.hashnode.dev/a-gentle-introduction-to-web-30" title="A Gentle Introduction To Web3">
+    <strong>A Gentle Introduction To Web3</strong>
+  </a>
+  <br/> 
+  This is the new chapter of the internet everybody is talking about it, everyone wants to build on it, there is this new shift to this stage, some people think its a revolution, some think its an evolution, some think it is all just...
+</p> 
+
+<br/> <br/>
+
+<div align="center">
+<p align="center"><b>FOR MORE ARTICLES ⬇</b></p>
+<p><a href="https://ihuomablog.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+</div>
+<!-- BLOG-POST-LIST:END -->
 
 <!-- STATISTICS:START -->
 ## My GitHub Stats &#x1f4c8;
@@ -154,6 +201,7 @@
   </tr>
     
 </table>
+<br/> <br/>
 <!-- USED-LANGUAGES:END -->
 
 <!-- SUPPORT:START -->
