@@ -26,18 +26,7 @@
 - [A Gentle Introduction To Web3.0](https://ihuomablog.hashnode.dev/a-gentle-introduction-to-web-30)
 <!-- BLOG-POST-LIST:END -->
 
-## My GitHub Stats &#x1f4c8;
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oma131&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oma131&theme=tokyonight" />
- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oma131&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
-</p>
-
----
-
+<!-- CONTACT-INFORMATION:START -->
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/ihuomaanosike" target="blank">
@@ -59,7 +48,23 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="O.M.A#4916" height="30" width="40" />
 </a>
 </p>
+<!-- CONTACT-INFORMATION:END -->
 
+<!-- STATISTICS:START -->
+## My GitHub Stats &#x1f4c8;
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oma131&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oma131&theme=tokyonight" />
+ 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oma131&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+</p>
+
+---
+<!-- STATISTICS:END -->
+
+<!-- USED-LANGUAGES-AND-TOOLS:START -->
 <h3 align="left">Languages and Tools</h3>
 <table align="left">
   <tr>
@@ -149,10 +154,13 @@
   </tr>
     
 </table>
+<!-- USED-LANGUAGES:END -->
 
+<!-- SUPPORT:START -->
 <p align="center">
   <a href="https://www.buymeacoffee.com/oma131"> 
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oma131" />
   </a>
 </p>
 <br><br>
+<!-- SUPPORT:END -->
