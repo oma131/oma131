@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ihuoma Anosike</h1>
 <h3 align="center">Front-End Developer, Content Manager & Technical Writer</h3>
-<p align="center"> <a href="https://twitter.com/ihuomaanosike" target="blank"><img src="https://img.shields.io/twitter/follow/ihuomaanosike?logo=twitter&style=for-the-badge" alt="ihuomaanosike" /></a> </p>
+<p align="center"> 
+	<a href="https://twitter.com/ihuomaanosike" target="blank"><img src="https://img.shields.io/twitter/follow/ihuomaanosike?logo=twitter&style=for-the-badge" alt="ihuomaanosike" /></a> 
+	<a href=""https://linkedin.com/in/ihuoma-anosike" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihuomaanosike" /></a>
+</p>
 
 
 <!-- INTRODUCTION:START -->
@@ -14,43 +17,8 @@
 - 🍕**I love Pizza and Corn**
 <!-- INTRODUCTION:END -->
 
-<!-- CONTACT-INFORMATION:START -->
-## Connect with me
-<table align="left">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://twitter.com/ihuomaanosike" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihuomaanosike" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://linkedin.com/in/ihuoma-anosike" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihuoma-anosike" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://fb.com/ihuoma.anosike.9" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihuoma.anosike.9" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://instagram.com/_____o_m_a" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____o_m_a" height="30" width="40" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://discord.gg/O.M.A#4916" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="O.M.A#4916" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
-<br/></br>
-<!-- CONTACT-INFORMATION:END -->
-
-## Latest Blog Articles 📝
-
 <!-- BLOG-POST-LIST:START -->
+## Latest Blog Articles 📝
 <p align="left">
   <a href="https://ihuomablog.hashnode.dev/how-to-create-an-nft-gallery" title="How To Create An NFT Gallery">
     <img src="https://ihuomablog.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1656626541760%2FyzINEq9KH.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Nft Gallery" width="250px" align="left" />
