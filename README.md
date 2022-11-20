@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ihuoma Anosike</h1>
 <h3 align="center">Front-End Developer, Content Manager & Technical Writer</h3>
 <p align="center"> 
-	<a href="https://twitter.com/ihuomaanosike" target="blank"><img src="https://img.shields.io/twitter/follow/ihuomaanosike?logo=twitter&style=for-the-badge" alt="ihuomaanosike" /></a> 
-	<a href=""https://linkedin.com/in/ihuoma-anosike" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihuomaanosike" /></a>
+	<a href="https://twitter.com/ihuomaanosike" target="blank"><img src="https://img.shields.io/twitter/follow/ihuomaanosike?logo=twitter&style=for-the-badge" alt="ihuomaanosike" /></a>
 </p>
 
 
