@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ihuoma Anosike</h1>
 <h3 align="center">Front-End Developer, Content Manager & Technical Writer</h3>
-<h4 align="center">🎙Podcast Host: <a href="https://open.spotify.com/show/0Wz7bQb8d11SgILf6js4e6">WEB3 CHILLOUT ZONE</a>🎧</h4>
 <p align="center"> <a href="https://twitter.com/ihuomaanosike" target="blank"><img src="https://img.shields.io/twitter/follow/ihuomaanosike?logo=twitter&style=for-the-badge" alt="ihuomaanosike" /></a> </p>
 
 
