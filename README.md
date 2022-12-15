@@ -1,6 +1,6 @@
 [![@oma's Holopin board](https://holopin.me/oma)](https://holopin.io/@oma)
 <h1 align="center">Hi 👋, I'm Ihuoma Anosike</h1>
-<h3 align="center">Front-End Developer, Content Manager & Technical Writer</h3>
+<h3 align="center">Front-End Developer|| Blockchain Developer || Technical Writer</h3>
 <p align="center"> 
 	<a href="https://twitter.com/ihuomaanosike" target="blank"><img src="https://img.shields.io/twitter/follow/ihuomaanosike?logo=twitter&style=for-the-badge" alt="ihuomaanosike" /></a>
 </p>
